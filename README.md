@@ -82,7 +82,7 @@ Files for all the sub tasks are in Subtask (1, 2a, 2b).py present in the git rep
 
 ### for SubTask 1:
 
-We have fine tuned a Bert Based model on specific multilabel classification, by giving the annotation of train.json for training and validation.json for validations. And after that we performed testing on the provided dev-unlabeled dataset for multilabel classification.
+We have fine tuned a Bert Based transformer model on specific multilabel classification, by giving the annotation of train.json for training and validation.json for validations. And after that we performed testing on the provided dev-unlabeled dataset for multilabel classification.
 
 ### SubTask 2:
 Not Done Yet
